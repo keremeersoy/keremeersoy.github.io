@@ -34,9 +34,9 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-          Hello, I am Azimet Kerem Ersoy.I am a Computer Engineering student at Kırıkkale University.
+          Hello, I am Kerem Ersoy.I am a Computer Engineering student at Kırıkkale University.
             <br></br> <br></br>
-          I follow the software industry and new technologies. I did not choose a single field, but I browsed many fields. I take C# lessons at school and I am trying to be good at object oriented programming. I have an introductory knowledge of C# Windows Form. I also studied arduino when I was in high school. I learned HTML, CSS, Bootstrap. I am currently trying to learn JavaScript and its frameworks.
+          I follow the software industry and new technologies. I did not choose a single field, but I browsed many fields. I take C# lessons at school and I am trying to be good at object oriented programming. I have an introductory knowledge of C# Windows Form. I also studied arduino when I was in high school. I learned HTML, CSS, Bootstrap. I am currently trying to learn JavaScript and its frameworks. 
           </code>
           <br />
           <br />
