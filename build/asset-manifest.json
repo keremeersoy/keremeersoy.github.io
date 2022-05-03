@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.149af720.css",
-    "main.js": "/static/js/main.8ce1f202.js",
+    "main.js": "/static/js/main.1149dca3.js",
     "static/js/787.50a61aeb.chunk.js": "/static/js/787.50a61aeb.chunk.js",
     "static/media/MailLogo.png": "/static/media/MailLogo.00cad07fc47e95dab520.png",
     "static/media/SqlLogo.png": "/static/media/SqlLogo.85fb38d6773862e917f4.png",
@@ -22,11 +22,11 @@
     "static/media/JsLogo.png": "/static/media/JsLogo.db393457bf6303d846d6.png",
     "index.html": "/index.html",
     "main.149af720.css.map": "/static/css/main.149af720.css.map",
-    "main.8ce1f202.js.map": "/static/js/main.8ce1f202.js.map",
+    "main.1149dca3.js.map": "/static/js/main.1149dca3.js.map",
     "787.50a61aeb.chunk.js.map": "/static/js/787.50a61aeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.149af720.css",
-    "static/js/main.8ce1f202.js"
+    "static/js/main.1149dca3.js"
   ]
 }
